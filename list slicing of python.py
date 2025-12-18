@@ -10,7 +10,6 @@
 # java c++ not store another varible in list but python support it
 
 marks = [20.2,30.4,60.1,12.3,40.3]
-
 print(marks)
 print(type(marks))
 print(len(marks))
@@ -45,3 +44,16 @@ print(marks[:5]) #same left side outoatically  included this use off python
 print(marks[-5:-1])#not included last index
 print(marks[-len(marks):])#this type also execute in full box 
 print(marks[:])# same execute in full box 
+print(marks[::-1]) #means reverse all box 
+print(marks[::1])#means print full box in same order 
+print(marks[::2])#means print full box in even index like 0,2,4,6,8,10 this type gap 2 after excute box
+print(marks[::-2])#means print full bot in reverse like 10,8,6,4,2,0 this type after gap 2 execute box
+print(marks[::-3])#means print full box even 3rd ite after like mnegative reverse like 10 7 4 1 
+print(marks[::3])#same as positive after 3 rd item table print it 
+
+#list type print table of 10 
+
+num = list(range(1,101))  # 1 mines index 0 and step is 1 and 101 last elemnt is not counted 
+table_10 = num[9::10]#print 9 is index and 10 is step so print is lisyt table in 10 
+print("table 10 is :",table_10)
+

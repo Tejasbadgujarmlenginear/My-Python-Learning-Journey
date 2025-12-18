@@ -1,10 +1,10 @@
 #special list methods like:
 # #list.append 
-list = [10,20,30,40]
+list = [10,20,30,40,60,50]
 list.append(57) #add element in this list append mines add element 
 
 #list.sort
-print(list.sort()) #clar box so directly output in ascendingorder like [1,2,3,4] sequencly add
+print(list.sort()) #clear box so directly output in ascending order like [1,2,3,4] sequencly add
 
 #list.sort(reverse=True)   #mines decending flow works like
 # print(list.sort(reverse=True))tha decending mines reverse position value high like [4,3,2,1]

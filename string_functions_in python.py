@@ -20,7 +20,7 @@ print(str.replace("python","javascript"))  #(old,new)replace thise use of replac
  #find function use in 1st time value print then that's type searching index like:
 
 str_2 = "Engineer"
-print(str_2.find("e")) #using a find a string off 1st caracter &print index this string  
+print(str_2.find("e")) #using a find a string off 1st character & print index this string  
 
 print(str_2.find("q")) #return -1 beacuase these value not showing & because -1 is not valid index its only use in slicing so return it -1  
 
