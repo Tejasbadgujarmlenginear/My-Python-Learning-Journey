@@ -23,4 +23,4 @@ while i <=10:
      i+=1
      continue #continue condition mainlly use for skip the number 
     print(i)
-    i+=1                             #37:16 timing end  
+    i+=1                             

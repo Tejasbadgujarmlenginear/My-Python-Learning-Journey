@@ -80,19 +80,7 @@ while i< len(nums):
    
     if(nums[i] == x):
         print("index found",i)  
-       # break #breack condition use in stop the loop after value not executed 
-        
     else:
         print("finding....")    
     i+=1
  
- #continue use in loop like    
-
-
-i = 1
-while i <=10:
-    if(i%2 != 0):
-     i+=1
-     continue #continue condition mainlly use for skip the number 
-    print(i)
-    i+=1                             #37:16 timing end 

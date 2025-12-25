@@ -1,10 +1,13 @@
 #for loop for use in sequenciall traversal for traversing list,string,tuple etc.
 
 
-list = [1,2,3,4,7,5,8,]
-for num in list:
+# list = [1,2,3,4,7,5,8,]
+# for num in list:
+#     print(num)
+
+tup = (10,20,30,40,50)    
+for num in tup:
     print(num)
- 
 
 #search for a number x in this tuple using loop
 
@@ -43,4 +46,19 @@ n = int(input("enter number"))
 
 for el in range(n,n*11,n): #both (start:stop:step) every tale count condition execute 
     print(el)        
-                       #54:23 pass statement after 
+                       
+n = int(input("enter number"))
+
+list_table = list(range(n, n*11, n))
+print(list_table)
+
+
+
+
+
+
+
+
+
+
+
