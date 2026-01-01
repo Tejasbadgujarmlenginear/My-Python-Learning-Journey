@@ -17,6 +17,7 @@ i = 1
 while i<=n:
     facto*=i
     i+=1
+   
 print("factorial is",facto)
 
 

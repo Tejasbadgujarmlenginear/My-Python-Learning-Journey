@@ -2,7 +2,7 @@
 # table : "a piece of furniture", list of facts and fighures
 # cat : "a smalll animal"
 
-#so first o ff all logic like dictionalry store values and two values store like 
+#so first off all logic like dictionalry store values and two values store like 
 #tupple form and list form also posible so these like :
 
 dictionary = {
@@ -22,13 +22,13 @@ subjects = {
     "python","java","c++","python","java",
     "c","javascript","html","css","c++"
 }
-print(subjects)
+print(subjects.union)
 print("total classroom needed :",len(subjects))
 
 # 3 wap to enter marks of 3 subjects from the user and store then in a dictionary start with an empty 
 #dictionary and add one by one use subject name as key and marks as value
 
-#logic input 3 subjects 1st enter 1st 2nd 3rd subjects marks and store empty diction one by one so use update methode 
+#logic input 3 subjects 1st enter 1st 2nd 3rd subjects marks and store empty dictionary one by one so use update methode 
 # because update method add one by by dictionary format so use like 
 marks = {}
 

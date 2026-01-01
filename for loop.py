@@ -47,6 +47,7 @@ n = int(input("enter number"))
 for el in range(n,n*11,n): #both (start:stop:step) every tale count condition execute 
     print(el)        
                        
+#print eveery table of n value in list form
 n = int(input("enter number"))
 
 list_table = list(range(n, n*11, n))

@@ -3,7 +3,7 @@ tup = (1, 2, 3)#error found because tuple is immutable mines
 print(len(tup))
 print(type(tup))
 
-tup = (1,) #this is roght way to create a tuple than run it without quama use pythons assigned 
+tup = (1,) #this is right way to create a tuple than run it without quama use pythons assigned 
 print(tup)#int float value and multiple value quama is optinal without quama run it 
 print(type(tup))
 
@@ -12,7 +12,7 @@ print(type(tup))
 tup = (20, 30, 40)
 print(tup[1])
 print(tup[:])
-print(tup[:2])#lats index not counted but first is counted 
+print(tup[:2])#last index not counted but first is counted 
 print(tup[0:])
 
 #slicing also use in tuple

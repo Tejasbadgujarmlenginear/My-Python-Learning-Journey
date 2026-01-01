@@ -36,7 +36,6 @@ print_len(list)#argumnets
 #proper indentation mines curly braces {}  
 
 
-
 #write a fuction find the factorial of n (n is parameter)
 
 def cal_fact(n): #paramenter
@@ -54,7 +53,7 @@ def usd_to_inr(usd):#parameter
    print(inr)   
 usd_to_inr(1) #arguments            #32.56
 
-
+#write a fuction to check whether a number is evern or oddc(num is parameter ) #homework solved 😍
 def num_to_str(num): #parameter
    if(num % 2 ==0):
       print("even")

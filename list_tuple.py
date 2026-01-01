@@ -20,7 +20,7 @@ print(list)
 #not removing any index only  add and before leteer also added inlike 
 
 list = [1,3,4,5,]
-list.insert(1,2) #add element specific indexing through
+list.insert(8,2) #add element specific indexing through
 print(list)
 
 #list.remove this use occurence mines every number can delete in list without indeximg follow

@@ -26,7 +26,7 @@ else:
     
 
 lst = [1,2,1]
-list.reverse()
+lst.reverse()
 if(lst ==lst[::-1]):
     print("palindrome")
 else:

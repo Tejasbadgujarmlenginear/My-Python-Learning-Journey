@@ -11,7 +11,7 @@ print("table 100 is :",table_100)
 
 
 n = int(input("enter the number to print table :")) 
-table = list(range(n, n*12, n))  # start=n, stop=n*11, step=n
+table = list(range(n, n*11, n))  # start=n, stop=n*11, step=n
 print(table)
 
 #using list tuple possible only strng not possible because string is character print table of n value like :
