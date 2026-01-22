@@ -50,4 +50,4 @@ h1 = Home()
 
 print(h1.welcome())   # there are executed because private function execute in class and print in object thata why executed 
 
-
+print(h1.__hello)
