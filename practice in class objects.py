@@ -3,9 +3,9 @@
 
 class Account():
 
-    def __init__(self,bal,acc):
+    def __init__(self,bal,acc_no):
         self.balance = bal
-        self.account_num = acc
+        self.account_num = acc_no
      
     #debit balance
     def debit(self,amount):
