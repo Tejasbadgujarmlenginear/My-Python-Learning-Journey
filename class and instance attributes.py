@@ -47,3 +47,9 @@ s1 = Students("karan",97,21)
 s1.Welcome()
 print(s1.get_marks())
       
+
+
+
+
+
+

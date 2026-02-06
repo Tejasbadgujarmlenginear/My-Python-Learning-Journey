@@ -79,6 +79,7 @@ car1.start()                    #that process its a mutiple inheritance bothes o
 #like suppose example :
 #two base classes information gain in one derived class and create also own class in derived thats is a multple ineritance 
 #simple example    
+
 class A:
     varA = "welcome to the A class"
 class B:                            #two or more than base clases 
@@ -123,3 +124,8 @@ print(car1.type)
 
 # car1.start()    this a car start in class they everytime but some time lot off data so thats time not mentioned him object 
 #executed so and derived class same objects or item avilable so redirect and execute iin the that use in super method 
+
+
+
+#26:20 
+

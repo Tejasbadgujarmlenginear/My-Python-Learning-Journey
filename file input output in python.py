@@ -50,7 +50,7 @@ f.write("\nthats is add the data")
 
 f.close()
 
-#theys have suppose withou write add only just you file and mode name write and add they also tomaticaaly 
+#theys have suppose without write add only just you file and mode name write and add they also outomaticaaly 
 # create the file like :
 
 f = open("tejas.py","a")

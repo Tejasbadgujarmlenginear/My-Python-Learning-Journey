@@ -72,7 +72,7 @@ print(lp.name,lp.quality,lp.features)
 
 
 
-
+#just like practice
 
 
 class Ganeshji():

@@ -23,3 +23,6 @@ s1 = Students("Tejas",[67,76,96],"bca")
 # print(s1.name,s1.marks,s1.branch)
 
 s1.get_average()
+
+
+#practice suppose you branch print 
